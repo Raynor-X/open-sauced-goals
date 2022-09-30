@@ -1,15 +1,21 @@
 [
   {
+    "full_name": "ryanlopezzzz/EEG",
+    "stargazers_count": 13,
+    "open_issues_count": 0,
+    "forks_count": 4
+  },
+  {
     "full_name": "Creality3DPrinting/Ender-3",
-    "stargazers_count": 1523,
+    "stargazers_count": 1524,
     "open_issues_count": 52,
-    "forks_count": 616
+    "forks_count": 617
   },
   {
     "full_name": "codecrafters-io/build-your-own-x",
-    "stargazers_count": 166205,
+    "stargazers_count": 166511,
     "open_issues_count": 267,
-    "forks_count": 15634
+    "forks_count": 15679
   },
   {
     "full_name": "mishal23/os-lab",
@@ -19,21 +25,21 @@
   },
   {
     "full_name": "olliw42/storm32bgc",
-    "stargazers_count": 412,
+    "stargazers_count": 413,
     "open_issues_count": 2,
     "forks_count": 237
   },
   {
     "full_name": "gurugio/lowlevelprogramming-university",
-    "stargazers_count": 7832,
+    "stargazers_count": 7835,
     "open_issues_count": 0,
     "forks_count": 566
   },
   {
     "full_name": "jwasham/coding-interview-university",
-    "stargazers_count": 234667,
-    "open_issues_count": 46,
-    "forks_count": 62779
+    "stargazers_count": 234932,
+    "open_issues_count": 47,
+    "forks_count": 62846
   },
   {
     "full_name": "bkerler/AutoSatTracker-ESP",
@@ -43,15 +49,15 @@
   },
   {
     "full_name": "Embedded-Systems-Guide/embedded-software-skills",
-    "stargazers_count": 147,
+    "stargazers_count": 148,
     "open_issues_count": 0,
     "forks_count": 29
   },
   {
     "full_name": "Developer-Y/cs-video-courses",
-    "stargazers_count": 43233,
+    "stargazers_count": 43656,
     "open_issues_count": 12,
-    "forks_count": 6286
+    "forks_count": 6331
   },
   {
     "full_name": "MKme/Arduino-Satellite",
@@ -61,13 +67,13 @@
   },
   {
     "full_name": "himahuja/Research-Internships-for-Undergraduates",
-    "stargazers_count": 2578,
+    "stargazers_count": 2580,
     "open_issues_count": 12,
-    "forks_count": 579
+    "forks_count": 582
   },
   {
     "full_name": "BojanJurca/Esp32_oscilloscope",
-    "stargazers_count": 171,
+    "stargazers_count": 172,
     "open_issues_count": 1,
     "forks_count": 31
   },
@@ -85,13 +91,13 @@
   },
   {
     "full_name": "Kaustubh-Natuskar/moreThanFAANGM",
-    "stargazers_count": 3097,
+    "stargazers_count": 3104,
     "open_issues_count": 12,
     "forks_count": 647
   },
   {
     "full_name": "Divide-By-0/ideas-for-projects-people-would-use",
-    "stargazers_count": 428,
+    "stargazers_count": 430,
     "open_issues_count": 0,
     "forks_count": 14
   },
@@ -103,9 +109,9 @@
   },
   {
     "full_name": "merbanan/rtl_433",
-    "stargazers_count": 4155,
+    "stargazers_count": 4162,
     "open_issues_count": 237,
-    "forks_count": 1052
+    "forks_count": 1054
   },
   {
     "full_name": "hkaur008/Informative-Recording-Notes",
@@ -115,15 +121,15 @@
   },
   {
     "full_name": "chubin/cheat.sh",
-    "stargazers_count": 30545,
-    "open_issues_count": 100,
+    "stargazers_count": 30588,
+    "open_issues_count": 101,
     "forks_count": 1531
   },
   {
     "full_name": "denysdovhan/wtfjs",
-    "stargazers_count": 28429,
+    "stargazers_count": 28475,
     "open_issues_count": 25,
-    "forks_count": 2050
+    "forks_count": 2051
   },
   {
     "full_name": "hackclub/marathon",
@@ -139,21 +145,21 @@
   },
   {
     "full_name": "MLH/mlh-hackathon-organizer-guide",
-    "stargazers_count": 277,
+    "stargazers_count": 278,
     "open_issues_count": 24,
     "forks_count": 112
   },
   {
     "full_name": "HackMIT/playground",
-    "stargazers_count": 147,
+    "stargazers_count": 148,
     "open_issues_count": 2,
     "forks_count": 6
   },
   {
     "full_name": "filebrowser/filebrowser",
-    "stargazers_count": 17141,
-    "open_issues_count": 116,
-    "forks_count": 2147
+    "stargazers_count": 17179,
+    "open_issues_count": 84,
+    "forks_count": 2148
   },
   {
     "full_name": "PaulieScanlon/gatsby-theme-terminal",
@@ -172,11 +178,5 @@
     "stargazers_count": 1,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "DSC-JSS-NOIDA/foss-events",
-    "stargazers_count": 123,
-    "open_issues_count": 1,
-    "forks_count": 258
   }
 ]

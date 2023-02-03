@@ -1,27 +1,27 @@
 [
   {
     "full_name": "bregman-arie/devops-exercises",
-    "stargazers_count": 37562,
-    "open_issues_count": 17,
-    "forks_count": 8432
+    "stargazers_count": 39153,
+    "open_issues_count": 18,
+    "forks_count": 8623
   },
   {
     "full_name": "ryanlopezzzz/EEG",
-    "stargazers_count": 21,
+    "stargazers_count": 22,
     "open_issues_count": 0,
     "forks_count": 4
   },
   {
     "full_name": "Creality3DPrinting/Ender-3",
-    "stargazers_count": 1597,
+    "stargazers_count": 1598,
     "open_issues_count": 54,
-    "forks_count": 638
+    "forks_count": 639
   },
   {
     "full_name": "codecrafters-io/build-your-own-x",
-    "stargazers_count": 186172,
-    "open_issues_count": 266,
-    "forks_count": 17913
+    "stargazers_count": 186800,
+    "open_issues_count": 254,
+    "forks_count": 17983
   },
   {
     "full_name": "mishal23/os-lab",
@@ -31,21 +31,21 @@
   },
   {
     "full_name": "olliw42/storm32bgc",
-    "stargazers_count": 437,
+    "stargazers_count": 439,
     "open_issues_count": 0,
     "forks_count": 243
   },
   {
     "full_name": "gurugio/lowlevelprogramming-university",
-    "stargazers_count": 8150,
+    "stargazers_count": 8156,
     "open_issues_count": 0,
     "forks_count": 591
   },
   {
     "full_name": "jwasham/coding-interview-university",
-    "stargazers_count": 245639,
-    "open_issues_count": 53,
-    "forks_count": 65202
+    "stargazers_count": 245931,
+    "open_issues_count": 54,
+    "forks_count": 65262
   },
   {
     "full_name": "bkerler/AutoSatTracker-ESP",
@@ -61,9 +61,9 @@
   },
   {
     "full_name": "Developer-Y/cs-video-courses",
-    "stargazers_count": 51524,
-    "open_issues_count": 16,
-    "forks_count": 7365
+    "stargazers_count": 51602,
+    "open_issues_count": 17,
+    "forks_count": 7384
   },
   {
     "full_name": "MKme/Arduino-Satellite",
@@ -73,13 +73,13 @@
   },
   {
     "full_name": "himahuja/Research-Internships-for-Undergraduates",
-    "stargazers_count": 2790,
-    "open_issues_count": 11,
-    "forks_count": 610
+    "stargazers_count": 2791,
+    "open_issues_count": 12,
+    "forks_count": 611
   },
   {
     "full_name": "BojanJurca/Esp32_oscilloscope",
-    "stargazers_count": 221,
+    "stargazers_count": 222,
     "open_issues_count": 0,
     "forks_count": 36
   },
@@ -103,7 +103,7 @@
   },
   {
     "full_name": "Divide-By-0/ideas-for-projects-people-would-use",
-    "stargazers_count": 591,
+    "stargazers_count": 594,
     "open_issues_count": 0,
     "forks_count": 19
   },
@@ -115,7 +115,7 @@
   },
   {
     "full_name": "merbanan/rtl_433",
-    "stargazers_count": 4681,
+    "stargazers_count": 4696,
     "open_issues_count": 276,
     "forks_count": 1126
   },
@@ -127,15 +127,15 @@
   },
   {
     "full_name": "chubin/cheat.sh",
-    "stargazers_count": 34552,
+    "stargazers_count": 34574,
     "open_issues_count": 109,
-    "forks_count": 1658
+    "forks_count": 1657
   },
   {
     "full_name": "denysdovhan/wtfjs",
-    "stargazers_count": 30037,
-    "open_issues_count": 26,
-    "forks_count": 2230
+    "stargazers_count": 30085,
+    "open_issues_count": 28,
+    "forks_count": 2240
   },
   {
     "full_name": "hackclub/marathon",
@@ -151,7 +151,7 @@
   },
   {
     "full_name": "MLH/mlh-hackathon-organizer-guide",
-    "stargazers_count": 288,
+    "stargazers_count": 289,
     "open_issues_count": 26,
     "forks_count": 115
   },
@@ -159,13 +159,13 @@
     "full_name": "HackMIT/playground",
     "stargazers_count": 161,
     "open_issues_count": 2,
-    "forks_count": 10
+    "forks_count": 11
   },
   {
     "full_name": "filebrowser/filebrowser",
-    "stargazers_count": 18550,
-    "open_issues_count": 65,
-    "forks_count": 2255
+    "stargazers_count": 18597,
+    "open_issues_count": 67,
+    "forks_count": 2263
   },
   {
     "full_name": "PaulieScanlon/gatsby-theme-terminal",
@@ -177,6 +177,6 @@
     "full_name": "Developer-Student-Clubs-VSSUT-Burla/College-Comrade",
     "stargazers_count": 21,
     "open_issues_count": 34,
-    "forks_count": 55
+    "forks_count": 54
   }
 ]

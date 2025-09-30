@@ -1,9 +1,9 @@
 [
   {
     "full_name": "bregman-arie/devops-exercises",
-    "stargazers_count": 78389,
-    "open_issues_count": 40,
-    "forks_count": 17652
+    "stargazers_count": 78650,
+    "open_issues_count": 37,
+    "forks_count": 17777
   },
   {
     "full_name": "ryanlopezzzz/EEG",
@@ -15,13 +15,13 @@
     "full_name": "Creality3DPrinting/Ender-3",
     "stargazers_count": 1894,
     "open_issues_count": 78,
-    "forks_count": 662
+    "forks_count": 663
   },
   {
     "full_name": "codecrafters-io/build-your-own-x",
-    "stargazers_count": 422302,
-    "open_issues_count": 430,
-    "forks_count": 39579
+    "stargazers_count": 423240,
+    "open_issues_count": 431,
+    "forks_count": 39680
   },
   {
     "full_name": "mishal23/os-lab",
@@ -31,21 +31,21 @@
   },
   {
     "full_name": "olliw42/storm32bgc",
-    "stargazers_count": 671,
+    "stargazers_count": 672,
     "open_issues_count": 4,
     "forks_count": 291
   },
   {
     "full_name": "gurugio/lowlevelprogramming-university",
-    "stargazers_count": 12319,
+    "stargazers_count": 12325,
     "open_issues_count": 0,
     "forks_count": 862
   },
   {
     "full_name": "jwasham/coding-interview-university",
-    "stargazers_count": 329683,
-    "open_issues_count": 85,
-    "forks_count": 80669
+    "stargazers_count": 330324,
+    "open_issues_count": 86,
+    "forks_count": 80771
   },
   {
     "full_name": "bkerler/AutoSatTracker-ESP",
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "Developer-Y/cs-video-courses",
-    "stargazers_count": 69876,
+    "stargazers_count": 69933,
     "open_issues_count": 2,
-    "forks_count": 9395
+    "forks_count": 9398
   },
   {
     "full_name": "MKme/Arduino-Satellite",
@@ -67,7 +67,7 @@
   },
   {
     "full_name": "himahuja/Research-Internships-for-Undergraduates",
-    "stargazers_count": 4627,
+    "stargazers_count": 4637,
     "open_issues_count": 12,
     "forks_count": 780
   },
@@ -91,13 +91,13 @@
   },
   {
     "full_name": "Kaustubh-Natuskar/moreThanFAANGM",
-    "stargazers_count": 4928,
+    "stargazers_count": 4929,
     "open_issues_count": 10,
-    "forks_count": 1005
+    "forks_count": 1006
   },
   {
     "full_name": "Divide-By-0/ideas-for-projects-people-would-use",
-    "stargazers_count": 1842,
+    "stargazers_count": 1846,
     "open_issues_count": 15,
     "forks_count": 81
   },
@@ -109,9 +109,9 @@
   },
   {
     "full_name": "merbanan/rtl_433",
-    "stargazers_count": 6891,
+    "stargazers_count": 6898,
     "open_issues_count": 242,
-    "forks_count": 1444
+    "forks_count": 1446
   },
   {
     "full_name": "hkaur008/Informative-Recording-Notes",
@@ -121,15 +121,15 @@
   },
   {
     "full_name": "chubin/cheat.sh",
-    "stargazers_count": 40252,
+    "stargazers_count": 40268,
     "open_issues_count": 139,
-    "forks_count": 1876
+    "forks_count": 1875
   },
   {
     "full_name": "denysdovhan/wtfjs",
-    "stargazers_count": 37201,
+    "stargazers_count": 37233,
     "open_issues_count": 46,
-    "forks_count": 2659
+    "forks_count": 2661
   },
   {
     "full_name": "hackclub/marathon",
@@ -139,7 +139,7 @@
   },
   {
     "full_name": "MLH/mlh-hackathon-organizer-guide",
-    "stargazers_count": 333,
+    "stargazers_count": 334,
     "open_issues_count": 17,
     "forks_count": 122
   },
@@ -151,9 +151,9 @@
   },
   {
     "full_name": "filebrowser/filebrowser",
-    "stargazers_count": 31313,
-    "open_issues_count": 27,
-    "forks_count": 3510
+    "stargazers_count": 31374,
+    "open_issues_count": 28,
+    "forks_count": 3514
   },
   {
     "full_name": "PaulieScanlon/gatsby-theme-terminal",
@@ -177,6 +177,6 @@
     "full_name": "HarshCasper/NeoAlgo",
     "stargazers_count": 888,
     "open_issues_count": 0,
-    "forks_count": 1040
+    "forks_count": 1039
   }
 ]
